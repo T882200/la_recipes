@@ -1,7 +1,3 @@
-## Introduction
-
-This is the repository for a tutorial that teaches how to set up a server side rendered web application using Django and Nuxt.js. 
-
 ## Requirements
 * [Python3](https://www.python.org/download/releases/3.0/)
 * [Pipenv](https://pypi.org/project/pipenv/)
